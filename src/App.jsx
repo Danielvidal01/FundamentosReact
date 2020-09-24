@@ -23,7 +23,7 @@ export default (props) => (
     
     <div className='Cards'>
 
-     <Card titulo ='#11 - Contador' color = '#fdf5e6'>
+     <Card titulo ='#11 - Contador' color = '#0392cf'>
          <Mega qtdeNumero={8}></Mega>
     </Card>   
 
@@ -39,7 +39,7 @@ export default (props) => (
         <Super></Super>
     </Card>
 
-    <Card titulo='#07- comunicação direta' color='#283655'>
+    <Card titulo='#07- comunicação direta' color='#65c3ba'>
     <Pai sobrenome='Freitas'></Pai>
     </Card>
 
