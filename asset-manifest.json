@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FundamentosReact/static/css/main.eef3f9fe.chunk.css",
+    "main.js": "/FundamentosReact/static/js/main.d505ea1c.chunk.js",
+    "main.js.map": "/FundamentosReact/static/js/main.d505ea1c.chunk.js.map",
+    "runtime-main.js": "/FundamentosReact/static/js/runtime-main.26bd488a.js",
+    "runtime-main.js.map": "/FundamentosReact/static/js/runtime-main.26bd488a.js.map",
+    "static/js/2.f98150ca.chunk.js": "/FundamentosReact/static/js/2.f98150ca.chunk.js",
+    "static/js/2.f98150ca.chunk.js.map": "/FundamentosReact/static/js/2.f98150ca.chunk.js.map",
+    "index.html": "/FundamentosReact/index.html",
+    "precache-manifest.73f78f8e278853e03b9913c5ce348d23.js": "/FundamentosReact/precache-manifest.73f78f8e278853e03b9913c5ce348d23.js",
+    "service-worker.js": "/FundamentosReact/service-worker.js",
+    "static/css/main.eef3f9fe.chunk.css.map": "/FundamentosReact/static/css/main.eef3f9fe.chunk.css.map",
+    "static/js/2.f98150ca.chunk.js.LICENSE.txt": "/FundamentosReact/static/js/2.f98150ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26bd488a.js",
+    "static/js/2.f98150ca.chunk.js",
+    "static/css/main.eef3f9fe.chunk.css",
+    "static/js/main.d505ea1c.chunk.js"
+  ]
+}
