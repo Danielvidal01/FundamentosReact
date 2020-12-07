@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-  "homepage": "http://danielvidal01.github.io/FundamentosReact",
+  "homepage": "http://danielvidal01.github.io/FundamentosReact/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
